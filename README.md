@@ -16,4 +16,4 @@ https://peaceful-reef-08452.herokuapp.com/flights/1/passengers
 Postman Collection:
 
 https://www.getpostman.com/collections/38dbed0b836ea7290916
-(See Flight Manifest_postman.json)
+(See Flight Manifest postman_collection.json)
