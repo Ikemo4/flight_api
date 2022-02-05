@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Heroku application deployed at:
 
-Things you may want to cover:
+https://peaceful-reef-08452.herokuapp.com/
 
-* Ruby version
+For CRUD endpoints for flights:
+https://peaceful-reef-08452.herokuapp.com/flights
 
-* System dependencies
+For CRUD endpoints for passengers:
+https://peaceful-reef-08452.herokuapp.com/passengers
 
-* Configuration
+To view passengers within flights:
+https://peaceful-reef-08452.herokuapp.com/flights/1/passengers
 
-* Database creation
+Postman Collection:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.getpostman.com/collections/38dbed0b836ea7290916
